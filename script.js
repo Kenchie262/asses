@@ -1,6 +1,6 @@
 
 const CONFIG = {
-  discordId: "444393598621057054",
+  discordId: "765156012503072788",
   displayName: "kxx.z7",
   tagline: "Destiny called me",
   lanyardInvite: "https://discord.gg/lanyard"
